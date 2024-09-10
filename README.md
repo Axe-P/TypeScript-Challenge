@@ -28,3 +28,6 @@ N/A
 
 ## Questions
 If you have any questions, reach out to me at [axepax72@gmail.com](mailto:axepax72@gmail.com)! My GitHub: [Axe-P](https://github.com/Axe-P).
+
+### Link to walkthrough video
+https://www.youtube.com/watch?v=mDLiYXNlAug
